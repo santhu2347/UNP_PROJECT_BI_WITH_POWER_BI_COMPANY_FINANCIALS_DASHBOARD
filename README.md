@@ -1,4 +1,4 @@
-# UNP_PROJECT_BI_WITH_POWER_BI_COMPANY_FINANCIALS_DASHBOARD
+# UNP_PROJECT_BI_WITH_POWER_BI_COMPANY_FINANCIALS_DATA
 
 I did this project in collaboration with UNP. The Company Financials Dashboard provides a comprehensive analysis of the organization's financial performance, including revenue, profit, and cost management. It tracks total sales, gross and net profit, and key financial metrics across different segments. The dashboard analyzes revenue trends over time, identifies the most profitable products, and evaluates the impact of discounts on sales performance. It also includes cost breakdowns, highlighting areas where expenses can be optimized. Additional insights include year-over-year growth, profit margins, and financial health indicators. This data-driven approach helps in making informed business decisions, improving profitability, and optimizing financial strategies
 
